@@ -11,3 +11,6 @@ Image reconstruction from Convolutional Neural Networks. Goal is to understand w
 ![](https://i.imgur.com/y1nFah8.png)
 ### Style Transfer
 ![](https://i.imgur.com/osNbG9t.png)
+
+## Acknowledgement
+This repo uses starter code from University of Wrocław Neural Network Course - [Assignment 3](https://github.com/janchorowski/dl_uwr)
